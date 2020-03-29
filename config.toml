@@ -22,7 +22,7 @@ theme = "casper3"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/about/about.md"
     weight = 10
   [[menu.main]]
     identifier = "Thought"
@@ -32,12 +32,12 @@ theme = "casper3"
   [[menu.main]]
     identifier = "Reading"
     name = "Reading"
-    url = "/readings/reading-list/"
+    url = "/readings/reading-list.md/"
     weight = 30
   [[menu.main]]
     identifier = "resources"
     name = "resources"
-    url = "/readings/resources/"
+    url = "/readings/resources.md/"
     weight = 40
   [[menu.main]]
       identifier = "categories"
