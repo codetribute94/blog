@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
-theme = "hugo-casper3"
+theme = "casper3"
 
 [params]
   LinkedIn = "https://LinkedIn.com"
