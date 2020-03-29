@@ -1,0 +1,78 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Mechi's Journal"
+
+copyright = "Copyright © 2019-2020, Mechi."
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+theme = "hugo-casper3"
+
+[params]
+  LinkedIn = "https://LinkedIn.com"
+  twitter = "https://twitter.com/mechi_trybe"
+  Reddit = "https://reddit.com/dotsolomon"
+  github = "https://github.com/codetribute94"
+  description = "Welcome to my daily musing"
+  mainSections = ["post"]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Thought"
+    name = "Thoughts"
+    url = "/post/"
+    weight = 40
+  [[menu.main]]
+    identifier = "Reading"
+    name = "Reading"
+    url = "/readings/reading-list/"
+    weight = 30
+  [[menu.main]]
+    identifier = "resources"
+    name = "resources"
+    url = "/readings/resources/"
+    weight = 40
+  [[menu.main]]
+      identifier = "categories"
+      name = "category"
+      url = "/categories"
+      weight = 40
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
