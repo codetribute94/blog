@@ -10,7 +10,7 @@ series:
 aliases:
 feature_image: "/image/lama.jpg"
 ---
-### “Choose a cause, cause a change". - Solomon Okafor
+### “Choose a cause, cause a change". - Mechi
 I will like to start this post with two mind-blowing quotes.
 
 >“It does not take a majority to prevail... but rather an irate, tireless minority, keen on setting brushfires of freedom in the minds of men.”
