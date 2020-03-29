@@ -32,12 +32,12 @@ theme = "casper3"
   [[menu.main]]
     identifier = "Reading"
     name = "Reading"
-    url = "/readings/reading-list.md/"
+    url = "/readings/reading-list/"
     weight = 30
   [[menu.main]]
     identifier = "resources"
     name = "resources"
-    url = "/readings/resources.md/"
+    url = "/readings/resources/"
     weight = 40
   [[menu.main]]
       identifier = "categories"
