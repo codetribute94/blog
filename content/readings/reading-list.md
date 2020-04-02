@@ -5,7 +5,7 @@ date: 2020-03-22T20:10:11+01:00
 draft: false
 description:
 tags: ["personal development", "growth", "lifestyle", "progress", ]
-categories: ["ECONOMY", "FINANCE", "TECHNOLOGY", "ENTREPRENEURSHIP", "BUSINESS", "MANAGEMENT", "PERSONAL DEVELOPMENT" ]
+categories: []
 series:
 aliases:
 feature_image: ""
