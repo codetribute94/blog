@@ -22,7 +22,7 @@ theme = "casper3"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "https://meetmechi.netlify.com"
+    url = "/about/about/"
     weight = 10
   [[menu.main]]
     identifier = "Thought"
