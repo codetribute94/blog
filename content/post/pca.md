@@ -14,20 +14,20 @@ The term personal competitive advantage first resonated with me while I was read
 Below are listed some of the sources of individual competitive advantage that we can leverage to get things done.
 
  Sources of Personal  Competitive Advantage.
-•  delayed gratification
-• capital
-• network (whom you know)
-• unique skills or combinations
-• platform
-• ability to suffer (perseverance)
-• family/home life
-• speed (Execution)
-• ability to change your mind
-• ability to learn/adapt (adaptability).
-• Ability to persuade others (influence)
-• Ability to look stupid
-• Advanced Pattern recognition
-• Focus
-• Ability to say no
+*  delayed gratification
+* capital
+* network (whom you know)
+* unique skills or combinations
+* platform
+* ability to suffer (perseverance)
+* family/home life
+* speed (Execution)
+* ability to change your mind
+* ability to learn/adapt (adaptability).
+* Ability to persuade others (influence)
+* Ability to look stupid
+* Advanced Pattern recognition
+* Focus
+* Ability to say no
 
 In the following weeks, I will dive into how each and every one of these qualities helps us become better and more successful as young adults transitioning into family and career.
