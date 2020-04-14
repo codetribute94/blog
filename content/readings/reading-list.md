@@ -32,3 +32,6 @@ feature_image: ""
 - Indistracable - Nir Eyal [ ].
 - Elastic - Leonard Mlodinow [ ].
 - The success equation -  Michael Mauboussin [ ].
+
+ if you love what I'm reading and would like to join my Book A Week Challenge, do reach and I will drop links to get the books.
+ Happy Reading..

@@ -2,7 +2,7 @@
 author: mechi
 title: "GET SKILLED"
 date: 2016-06-04T19:20:40+01:00
-draft: true
+draft: false
 description:
 tags: ["personal development", "growth", "lifestyle", "progress",]
 categories: ["entrepreneurship", "business", "personal development"]
