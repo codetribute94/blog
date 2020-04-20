@@ -2,7 +2,7 @@
 author: mechi
 title: "Week One"
 date: 2020-04-19T01:26:10+01:00
-draft: true
+draft: false
 description: "First week on the Data Science Challenge"
 tags: ["growth", "progress","personal development"]
 categories: [personal development]
