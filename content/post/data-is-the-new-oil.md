@@ -2,10 +2,10 @@
 author: mechi
 title: "Data Is the New Oil"
 date: 2020-04-26T17:51:21+01:00
-draft: true
+draft: false
 description:
-tags: []
-categories: []
+tags: ["growth", "progress","personal development"]
+categories: ["personal development"]
 series:
 aliases:
 feature_image: "/image/Data.jpg"
